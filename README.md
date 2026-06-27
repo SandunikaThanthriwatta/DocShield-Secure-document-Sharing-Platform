@@ -134,5 +134,3 @@ npm run dev
 ```
 
 ---
-
-<p align="center">Made with ❤️ — DocShield Team</p>
